@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 Software Developer | Aspiring Ethical Hacker | Cybersecurity Enthusiast<br>👨‍💻 Currently diving into the world of coding with a passion for learning and building innovative solutions.<br>🔧 Experienced with frameworks like Spring Boot and FastAPI, building dynamic web applications and microservices.<br>💻 Proficient in languages like Python, Java, and Java, and always excited to explore new tech stacks.
+🚀 Software Developer | Aspiring Ethical Hacker | Cybersecurity Enthusiast<br>👨‍💻 Currently diving into the world of coding with a passion for learning and building innovative solutions.<br>🔧 Experienced with frameworks like Spring Boot and FastAPI, building dynamic web applications and microservices.<br>💻 Proficient in languages like Python, Java, and always excited to explore new tech stacks.
 
 
 ## 🌐 Socials:
